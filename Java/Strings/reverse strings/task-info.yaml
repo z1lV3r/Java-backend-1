@@ -1,0 +1,23 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 185
+    length: 21
+    placeholder_text: /* Write code here */
+    initial_state:
+      length: 21
+      offset: 185
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: VlI3ksUnoMtmnSVSYBfvkvrSG6S+sat1JyYjro5Hu1+JH4j7nZH0A2/vpaHhG/ClPXHj6K568xKzCBz7PPCi8mkhL2QWEblJgJPAJgch6Rrp4L+hqd/p7lvMznKNAa7piKKRN9OyGisKRhxtKQind7Oz2voYnQTj7/LhxIgRaNxeG+yKeCLXfTS88n9VjZwKQeXvHrYtJKYMj64cITboyg==
+  encrypted_text: WEJEkhpCAL5HUFSlR3wpP55BUZ+Ql5YPW71WJ76v1RRIxl1EfMT3qEwyEksqeP7eOAWIzmU6gvP1o1IBhfCJhrUbvWmBvd3xP5gCY/skbgh8qknHJKEN+zAsjjMuR3PoUNjAGdRTqpSTvTb6VnAjLyIgSAEKOCUbL7g+dcp8dEgjnjbvLhKD7NLb5RLQVUj2ZvTlfBwx1NmTG40fDKVFegG4zbFSQ6mdQX3WIXLX61j+qlFIufVy7cgwtefuyu2ejF/hiQNO3hcvdIqzoxUB1AmeHQw3H428H1xrla0o/fI=
+  learner_created: false
+- name: test/Tests.java
+  visible: false
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nLOMtF4WlUsihBh5jN3l13uyooai5P8u0LMlLQ4i5q+2drq/vN6gXRKPjR/2GVSx/wv2B7NqFqn3a96igEC0mKKmWnwefbN8Xp+dQs4wp75I0hVHNnKuM/Gc6M8ITcPaV60BCwuFrJcwlWwTF6inVi0YROoLbFoR6Mk/qQrJGH0IGbtQRXU9KoCVqqriSivpoSNVF0X9ICB+AozK1tu/u5b44yAL6S/+so8xAb2YK/JgQ3zmTwRJqxt8zGkViTHTjmFD56S7y4pitbVC1+/DdTZ8FzO1CVKgeJkTJOpz8nzW70O8GsdEjchgPC6ZK3ewbxUD+oDgEflXahXMNMHr0Zxi95Q3msGLHME3UbhAa7noRnZDfQ5SwZVxRHpfrzL3vBvlg3MmbTgHiXH/5kaWPcVsPx0m1wvFl43xJ/+j4hGsePmaX1f9Zq1BRC2KXmU44OibzT87PIRnp1pl/txeSLk/WINH5Q/Odw2U8plmvLTK7KdSSWf+G/TvFnihBaprfR19Ora7Fbv3ozZvHeOd3KimhwXoCADUFcvHJqEHL2aNh+pCyZK8QBqT14xDgd4wX/U4E6SXjjd/b1UcaVv5J0WjwbVAOjhwqVK9ttHp+vNmH2e4vLfX6+8F0pDEvexyN3OheofiyEjGta6Ce+g+efaythHnBRWmlojMlpsOD926u5Trq+CodvYsi5UODc/X6sN0C2YWO8dFLfJt6WdHlBWpQursouG8mTKSl0O2A90Ik7IkuwuaZNcP58m0d3Aguyjdy0o8UaFe8BaMukRYgmG8HqdWblVmjPs4kEcrLQHXWJKeDZKbG9I/zmoLwvm6sVVfCPWep0fFhHUhXm2klXVoU81smdU6Yjskqx2GP1+WwqrlyZpGPahmI0TTXdPTwc3Z8rN5RQggvYc4Jrhn3b8XcF7//EOgXIeVstaLb+5lzxzrw7s+CUli1TlvaaRMCg5JulQGrM5Z1QN0Zco7Avx0k4qaGEAhrmGfPnGiQxU+FR7CTuYESgK6Krt+T0u4bzHkAWOVTfpiqXSkQuYlFpbym/hNsGNOjfnpmInPRtxAz4zfSdEQVQuSpT2VLna7BYH4MZB7WrOK+WC6pTc4CaULiOCduVcqXwcK9+wePCfb5pRWPthKUunTkSahxl21w2aWtp8pw6mVqAhD9XXgVVfHrbCLOAZOOL9qpCv5xYIY
+  learner_created: false
+status: Unchecked
+record: -1

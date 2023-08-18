@@ -1,0 +1,12 @@
+type: marketplace
+title: Java backend 1
+language: English
+summary: This is an introductory Java course for backend developers.
+programming_language: Java
+content:
+- Java
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_1_8
+vendor:
+  name: Hugo Villanueva
