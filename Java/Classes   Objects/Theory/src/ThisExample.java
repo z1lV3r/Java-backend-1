@@ -2,7 +2,7 @@ public class ThisExample {
 
    public static void main(String[] args) {
       long fiveDays = 5 * 24 * 60 * 60 * 1000;
-
+String
       Product product = new Product();
       product.setName("Jitomate");
       product.setPrice(2.00f);

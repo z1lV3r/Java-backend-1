@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  encrypted_text: WEJEkhpCAL5HUFSlR3wpP0U5qbNrPC8y4cyRfsCUo4pzmROhH9poK7AZo+t0gw2swsxy/PHkvA5TsHttzjxnCTh+8SdxcR/sWT4RNzi0kPWurBQHp1O4YXQpEhpvkOH/
+  learner_created: false
+- name: test/Tests.java
+  visible: false
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOzyNHGqghbkq1kO1chMNERKIVtu6Wa2mQTUeXLeRxui7TjdtuSYfXVcmhig1a0OyQag34ZWvVDShnVaRsY+QfwPMr76T7by6XZrnpCUY8zuR3dFE5m3PWQsmn9qvNg2uXS5lOlyRIIq6AjNWMO1skhwA0+UzJlteWdGEv5+WFRJc=
+  learner_created: false
+status: Unchecked
+record: -1
