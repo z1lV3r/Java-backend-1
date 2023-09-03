@@ -26,6 +26,13 @@ A
 
 Diamond for letter 'B':
 ````text
+·A·
+B·B
+·A·
+````
+
+Diamond for letter 'C':
+````text
 ··A··
 ·B·B·
 C···C

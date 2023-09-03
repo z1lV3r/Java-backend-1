@@ -4,7 +4,7 @@ language: English
 summary: This is an introductory Java course for backend developers.
 programming_language: Java
 content:
-- Java
+  - Java
 mode: Study
 environment_settings:
   jvm_language_level: JDK_1_8

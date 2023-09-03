@@ -1,43 +1,43 @@
 type: edu
 files:
-- name: src/Task.java
-  visible: true
-  placeholders:
-  - offset: 361
-    length: 36
-    placeholder_text: /* 1. Get message from a log line */
-    initial_state:
-      length: 36
-      offset: 361
-    initialized_from_dependency: false
-    selected: false
-    status: Unchecked
-    encrypted_possible_answer: +fthnc5AVy7q7CdITyrmPVVR8vTaS4gVOqO3NWLE352szz+OTtusg8pLiC8odfi0RwHC0KM14eR05eHJ8zU/Vg==
-  - offset: 458
-    length: 38
-    placeholder_text: /* 2. Get log level from a log line */
-    initial_state:
-      length: 38
-      offset: 458
-    initialized_from_dependency: false
-    selected: false
-    status: Unchecked
-    encrypted_possible_answer: +fthnc5AVy7q7CdITyrmPVVR8vTaS4gVOqO3NWLE350AHN2Rf0Xa8c6qD8u/4sQ3in7mg3qKgrl7ysPRdN+P1Lvt98lMuSbryAJEH4VWmFSY/X97CClPd/9uPnoy7/Xq
-  - offset: 557
-    length: 28
-    placeholder_text: /* 3. Reformat a log line */
-    initial_state:
-      length: 28
-      offset: 557
-    initialized_from_dependency: false
-    selected: false
-    status: Unchecked
-    encrypted_possible_answer: ixrhKz2Lnvexc5er2gnSjYrZK0hKDZGdpUmu2oYMH5KHet8IW9AcTGLs77ljj6VkCIT77S+SLeqGR00dn9WrdQ==
-  encrypted_text: WEJEkhpCAL5HUFSlR3wpP55BUZ+Ql5YPW71WJ76v1RRIxl1EfMT3qEwyEksqeP7eOAWIzmU6gvP1o1IBhfCJhrUbvWmBvd3xP5gCY/skbgh8qknHJKEN+zAsjjMuR3Pow7mCy+Uk7ZGc2CZamE0RC6WSnlYCV0pw/Pkol4+XjTjyR4U/JmTqKUWOYePWnZflaPuX2F+yPHrHmFJw/gDdEuHMuCntO7lyXckQAuVTIQKxEaQkbX1KB5JzQyw/ihKfFAPnxVa1TWxExvQHepieAr4UBLwHRnNXiW+OqXmO174Pmba4OZM4s7tGaCUOWrfNfRrux78Src8jb1NCM6iV2G0mI7i2T9yklU/THwPo2jmPhCFcNW6JmwrJyjpMAtYP4Fxit6jrwJh6LVr0RhPc1lTNkBW52+nykpEC36EUr3qJAxEda2x/9/s+/FoolaVNhwHFQoNwI96utW6qIVPHng+bdl9GU31CoeDb4WFu/M/S5qVuluxJwq5BzBA8XxOH52GBtOkg88ocXclIQ2hX3qvUZtO7vTIpQkcHC6RkpnX4LHeQRaKmFw+RGrwHwkr9uCnkKyJlxfFPVHKT3omwiEQHpT6j5LOSzcubktIt6aHrqdbH92Kr6W5gk31XNqh4pOhnS/YEob31szmZzNnQB9IHfZ/Be2PS/ZR5CwA1dWRc7Ds7eOuT4s1POmo/XR0msFN0XHuVHybZmTPpkrplL40K9wj2orRGHS8nQQ7znRp/0MkijZwGdNuu2+ky/wwRtnFqUn4g8k7RwcGLxyOLlSQkargZiS5CRTRbSpVODvc=
-  learner_created: false
-- name: test/Tests.java
-  visible: false
-  encrypted_text: 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
-  learner_created: false
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 361
+        length: 36
+        placeholder_text: /* 1. Get message from a log line */
+        initial_state:
+          length: 36
+          offset: 361
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: +fthnc5AVy7q7CdITyrmPVVR8vTaS4gVOqO3NWLE352szz+OTtusg8pLiC8odfi0RwHC0KM14eR05eHJ8zU/Vg==
+      - offset: 458
+        length: 38
+        placeholder_text: /* 2. Get log level from a log line */
+        initial_state:
+          length: 38
+          offset: 458
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: +fthnc5AVy7q7CdITyrmPVVR8vTaS4gVOqO3NWLE350AHN2Rf0Xa8c6qD8u/4sQ3in7mg3qKgrl7ysPRdN+P1Lvt98lMuSbryAJEH4VWmFSY/X97CClPd/9uPnoy7/Xq
+      - offset: 557
+        length: 28
+        placeholder_text: /* 3. Reformat a log line */
+        initial_state:
+          length: 28
+          offset: 557
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ixrhKz2Lnvexc5er2gnSjYrZK0hKDZGdpUmu2oYMH5KHet8IW9AcTGLs77ljj6VkCIT77S+SLeqGR00dn9WrdQ==
+    encrypted_text: WEJEkhpCAL5HUFSlR3wpP55BUZ+Ql5YPW71WJ76v1RRIxl1EfMT3qEwyEksqeP7eOAWIzmU6gvP1o1IBhfCJhrUbvWmBvd3xP5gCY/skbgh8qknHJKEN+zAsjjMuR3Pow7mCy+Uk7ZGc2CZamE0RC6WSnlYCV0pw/Pkol4+XjTjyR4U/JmTqKUWOYePWnZflaPuX2F+yPHrHmFJw/gDdEuHMuCntO7lyXckQAuVTIQKxEaQkbX1KB5JzQyw/ihKfFAPnxVa1TWxExvQHepieAr4UBLwHRnNXiW+OqXmO174Pmba4OZM4s7tGaCUOWrfNfRrux78Src8jb1NCM6iV2G0mI7i2T9yklU/THwPo2jmPhCFcNW6JmwrJyjpMAtYP4Fxit6jrwJh6LVr0RhPc1lTNkBW52+nykpEC36EUr3qJAxEda2x/9/s+/FoolaVNhwHFQoNwI96utW6qIVPHng+bdl9GU31CoeDb4WFu/M/S5qVuluxJwq5BzBA8XxOH52GBtOkg88ocXclIQ2hX3qvUZtO7vTIpQkcHC6RkpnX4LHeQRaKmFw+RGrwHwkr9uCnkKyJlxfFPVHKT3omwiEQHpT6j5LOSzcubktIt6aHrqdbH92Kr6W5gk31XNqh4pOhnS/YEob31szmZzNnQB9IHfZ/Be2PS/ZR5CwA1dWRc7Ds7eOuT4s1POmo/XR0msFN0XHuVHybZmTPpkrplL40K9wj2orRGHS8nQQ7znRp/0MkijZwGdNuu2+ky/wwRtnFqUn4g8k7RwcGLxyOLlSQkargZiS5CRTRbSpVODvc=
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    encrypted_text: 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
+    learner_created: false
 status: Unchecked
 record: -1

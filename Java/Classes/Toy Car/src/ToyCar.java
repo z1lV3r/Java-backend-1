@@ -1,4 +1,13 @@
 public class ToyCar {
+
+    public static void main(String[] args) {
+        ToyCar toyCar = ToyCar.buy();
+        toyCar.drive();
+        toyCar.drive();
+        toyCar.batteryDisplay();
+        toyCar.distanceDisplay();
+    }
+
     /* Add state */
 
     private ToyCar() {
